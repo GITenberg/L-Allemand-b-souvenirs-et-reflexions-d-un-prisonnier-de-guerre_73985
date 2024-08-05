@@ -1,0 +1,38 @@
+_repo: L-Allemand-b-souvenirs-et-reflexions-d-un-prisonnier-de-guerre_73985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rivière, Jacques
+    alias: Riviere, Jacques
+    birthdate: 1886
+    deathdate: 1925
+    gutenberg_agent_id: '46902'
+    url: http://www.gutenberg.org/2009/agents/46902
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
+    - https://fr.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
+description: ''
+gutenberg_issued: '2024-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73985'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=JQ5HAAAAIAAJ
+pgterms:marc905: 20240314232412rivire
+pgterms:marc906: '1918'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bNouvelle revue française, $c1918, pubdate 1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, German'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, French'
+- !lcsh 'National characteristics, German'
+- !lcsh 'Natorp, Paul, 1854-1924'
+- !lcc 'D501'
+- GITenberg
+title: 'L''Allemand : $b souvenirs et réflexions d''un prisonnier de guerre'
+url: http://www.gutenberg.org/ebooks/73985

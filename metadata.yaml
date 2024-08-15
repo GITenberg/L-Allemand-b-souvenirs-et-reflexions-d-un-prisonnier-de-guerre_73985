@@ -1,5 +1,8 @@
 _repo: L-Allemand-b-souvenirs-et-reflexions-d-un-prisonnier-de-guerre_73985
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73985-h/images/cover.jpg
 creator:
   author:
     agent_name: Rivière, Jacques
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
     - https://fr.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73985#L-Allemand-b-souvenirs-et-reflexions-d-un-prisonnier-de-guerre
 gutenberg_issued: '2024-07-07'
 gutenberg_type: Text
 identifiers:
